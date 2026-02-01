@@ -1,2 +1,6 @@
-argumented_data/
-tumorous_and_nontumorous/
+binary_classification /
+multiclass_classification /
+yes /
+no /
+Testing /
+Training /
